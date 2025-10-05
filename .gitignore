@@ -1,0 +1,13 @@
+# Файлы для игнорирования
+backup_info.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+*.token
+yandex_token.txt
