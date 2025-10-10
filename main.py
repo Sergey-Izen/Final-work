@@ -5,7 +5,7 @@ import time
 
 # Данные
 texts = ["Hello", "Good Cat", "Привет"]
-token = "y0__xD5n6XfAxjblgMghcqQzRSgjrxLLzVxCXL1WpjcPOU-rqZmVA"
+token = 
 group_name = "Fpy_134"
 
 yandex_headers = {'Authorization': f'OAuth {token}'}
